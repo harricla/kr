@@ -1,0 +1,19 @@
+.names {
+    font-family: 'Meddon', cursive;
+    font-size: x-large;
+}
+.names h1{
+    margin: 0.67em 0 0 0;
+}
+.message {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.circle-image{
+    border-radius: 50%;
+    width: 43%;
+}
